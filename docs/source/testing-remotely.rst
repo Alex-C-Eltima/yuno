@@ -7,6 +7,7 @@ The goal: a local path whose contents automatically get synced in both direction
 
 * `SSHFS <https://www.digitalocean.com/community/articles/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh>`_ (Linux, OS X)
 * `ExpanDrive <http://www.expandrive.com/expandrive>`_ (Windows, OS X)
+* `CloudMounter <http://mac.eltima.com/mount-cloud-drive.html>`_ (OS X)
 * `win-sshfs <https://code.google.com/p/win-sshfs/>`_ (Windows)
 * inotify + rsync hacks
 
